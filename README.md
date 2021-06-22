@@ -2,7 +2,7 @@
 
 This repo has 4 tasks that are automated by using python scripts.
 
-First task is to convert images files and resize them.
+First task is to convert image files and resize them.
 
 Second task is to take data from a certain path and send it to a host as a JSON file.
 
