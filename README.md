@@ -1,6 +1,6 @@
 # Automating-Real-World-Tasks-With-Python
 
-This repo automates 4 tasks that are automated by using python scripts.
+This repo has 4 tasks that are automated by using python scripts.
 
 First task is to convert images files and resize them.
 
